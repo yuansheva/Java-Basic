@@ -1,0 +1,41 @@
+//Dalam 1 minggu ada 7 hari, Senin, Selasa, Rabu, Kamis, Jumat, Sabtu, Minggu
+//Ada 7 case, dapat dilambangkan dengan int 1-7, karakter a-g, String Senin, Selasa, Rabu, Kamis, Jumat, Sabtu, Minggu
+
+package selection;
+import java.util.Scanner;
+
+public class Github_slc {
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		int a;
+		
+		System.out.println("Masukkan a = ");
+		a = s.nextInt();
+		
+		switch(a) {
+			case 1:
+				System.out.println("Senin");
+				break;
+			case 2:
+				System.out.println("Selasa");
+				break;
+			case 3:
+				System.out.println("Rabu");
+				break;
+			case 4:
+				System.out.println("Kamis");
+				break;
+			case 5:
+				System.out.println("Jumat");
+				break;
+			case 6:
+				System.out.println("Sabtu");
+				break;
+			case 7:
+				System.out.println("Minggu");
+				break;
+		}
+		
+	}
+
+}
