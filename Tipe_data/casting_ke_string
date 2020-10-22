@@ -1,0 +1,14 @@
+package tipe_data;
+
+public class Github_td {
+	public static void main(String[] args) {
+		int a = 5;
+		double b = 5.5;
+		String c;
+		
+		c = Integer.toString(a)+Double.toString(b);
+		
+		System.out.println(c);
+	}
+
+}
