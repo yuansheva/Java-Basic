@@ -1,2 +1,2 @@
 # Java-Basic
-Introduction for Java Syntax
+Program with Java-Basic
