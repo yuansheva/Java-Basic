@@ -1,20 +1,19 @@
-package latihanSelection1;
+package tugas2;
 import java.util.Scanner;
 
 public class Nomor1 {
 	public static void main(String[] args) {
-		Scanner s = new Scanner(System.in);
-		int a;
+		Scanner input = new Scanner(System.in);
 		
-		System.out.print("Masukkan Input = ");
-		a = s.nextInt();
+		System.out.print("Masukkan karakter huruf = ");
+		char a = input.next().charAt(0);
 		
-		if(a<0) {
-			System.out.print("Negatif");
+		if ((a == 'a') || (a == 'i') || (a == 'u') || (a == 'e') || (a == 'o')) {
+			System.out.print("Huruf Vokal");
+			
 		}
-		else if(a>0) {
-			System.out.print("Positif");
+		else {
+			System.out.print("Bukan Huruf Vokal");
 		}
 	}
-
 }
