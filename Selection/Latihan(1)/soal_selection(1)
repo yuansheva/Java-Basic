@@ -1,0 +1,33 @@
+1.	Buatlan program untuk menentukan suatu bilangan itu termasuk bilangan positif atau negative, dengan input suatu bilangannbulat. Outputnya keterngan positif atau negatife.
+
+2.	Buatlah program seperti pada nomor diatas tetapi memakai operator ternary.
+
+3.	Buatlah program yang bisa menentukan sebuah segitiga apakah termasuk segitiga siku-siku atau tidak berdasarkan panjang ketiga sisinya. Input: ketiga sisi output: keterangan siku-siku atau tidak.
+
+4.	Buatlah program seperti pada nomor diatas tetapi memakai operator ternary.
+
+5.	Buatlah program yang bisa memberi peringatan tentang boleh atau tidaknya seseorang menonton tayangan film berdasarkan umurnya dengan peraturan yang boleh menonton adalah berumur tidak kurang dari 17 tahun. Input: umur; output: keterangan boleh nonton/tidak.
+
+6.	Buatlah program seperti pada nomor diatas tetapi memakai operator ternary.
+
+7.	Buatlah program yang dapat memilah-milah tamu undangan untuk menuju ruang pesta dengan kriteria anak-anak, dewasa dan lansia berdasarkan batasan umur anak-anak kurang dari 10 th, dewasa antara 10 th sampai dibawah 50 th dan selebihnya adalah lansia. Input: usia ;output: keterangan anak-anak/ dewasa/ lansia.
+
+8.	Buatlah program untuk menentukan grid nilai huruf A,B,C,D atau E tergantung nilai angkanya dengan ketentuan sbb:
+    i.	Nilai > 86 	: A					
+    ii.	71 < Nilai <=86	: B
+    iii.	56 < Nilai <=71 	: C
+    iv.	41 < Nilai <=56 	: D					
+    v.	Nilai < 41		: E
+    Input: nilai angka; output: nilai huruf.
+    
+9.	Buatlah program  untuk menentukan total pembelian minuman apabila diberlakukan ketentuan berikut ini:
+
+Kode minuman	Jenis Minuman	Harga
+1	Milo	Rp. 7.500
+2	Kopi	Rp. 4.000
+3	Teh Botol	Rp. 3.500
+4	Jus Mangga	Rp. 5.000
+
+Jika total pembelian melebihi 100.000, potongan sebanyak 15% sedangkan pada rentang 50.000 dan 100.000 diberi potongan 7,5%, sebaliknya kalau kurang dari 50.000 tidak akan mendapat potongan. 
+
+10. Buatlah program untuk menentukan apakah huruf tersebut huruf vokal atau biasa
