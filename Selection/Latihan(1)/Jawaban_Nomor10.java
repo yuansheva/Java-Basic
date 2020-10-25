@@ -1,4 +1,4 @@
-package github;
+package latihanSelection1;
 import java.util.Scanner;
 
 public class Nomor10 {
