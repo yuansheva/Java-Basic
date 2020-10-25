@@ -1,7 +1,7 @@
-package tugas2;
+package github;
 import java.util.Scanner;
 
-public class Nomor1 {
+public class Nomor10 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		
