@@ -1,7 +1,7 @@
 package latihanSelection1;
 import java.util.Scanner;
 
-public class Nomor12 {
+public class Nomor9 {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		int a,b,c,d, totalHasil;
